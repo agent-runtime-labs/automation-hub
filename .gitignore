@@ -1,3 +1,4 @@
 .env
 .venv/
 tmp-output/**
+generated_documents/**
