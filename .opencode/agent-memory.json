@@ -1,0 +1,23 @@
+{
+  "journal": {
+    "enabled": true,
+    "tags": [
+      {
+        "name": "automation",
+        "description": "Workflow and automation related work"
+      },
+      {
+        "name": "debugging",
+        "description": "Debugging sessions and findings"
+      },
+      {
+        "name": "candidate-management",
+        "description": "Talent management and candidate operations"
+      },
+      {
+        "name": "integration",
+        "description": "Integration and setup work"
+      }
+    ]
+  }
+}
